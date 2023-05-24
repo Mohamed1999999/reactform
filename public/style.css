@@ -1,0 +1,16 @@
+.container-sm{
+    background-image:url("https://cdn.pixabay.com/photo/2016/10/12/19/50/matrix-1735640_640.jpg");
+   border-radius: 6px;
+   
+
+}
+
+.title{
+    font-size:x-large;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(14, 244, 244);
+}
+p{
+    color: rgb(245, 245, 245);
+}
+label{color: aliceblue;}
